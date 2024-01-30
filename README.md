@@ -1,9 +1,9 @@
 <span align="center">
 
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-<h1>Hi 👋, I'm (don) Pablo</h1>
+<h1>Hi 👋, I'm Issam Alzouby</h1>
 <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
-<h3>A passionate Software Nomad and Digital Engineer.</h3>
+<h3>A passionate CyberSecurity Student and Tech Enthusiast</h3>
 </span>
 <span align="center">
 
@@ -21,7 +21,7 @@
 
 <img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
-<h1>Hello World, my name is (don) <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
+<h1>Hello World, my name is Issam <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
 </span>
 <span align="center">
 <br />
@@ -30,10 +30,10 @@
 </span><span align="center">
 <br />
 <img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
- 🔭 I’m currently working on The Mean Operating System - The first decentralized, artificially intelligent, MEAN.js stack, operating system. Mean OS is the only operating system hosted anonymous using a P2P network and a suite of non-standard in-browser delivery mechanisms. Mean OS proudly supports Brave and Tor, be free!
+ 🔭 I’m currently working on The application of a CoreML U-Net Ai, Wav2Lip. 
 <br />
  <br />
- 🌱 I’m currently learning Kubenetes, Crypto, Distributed Storage 
+ 🌱 I’m currently learning PyTorch, C++, iOS App Development 
  
  <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
@@ -44,13 +44,13 @@
  
 <img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
- 🔭 I’m currently working on [MeanOS](https://github.com/donPabloNow/MeanOs)
+ 🔭 I’m currently working on [Ai4Health](https://ai4health-production.up.railway.app/)
 
- 👨‍💻 All of my projects are available at [https://github.com/donPabloNow](https://github.com/donPabloNow)
+ 👨‍💻 All of my projects are available at [[https://github.com/donPabloNow](https://github.com/ialzouby)
  
 <img align="left" width="40px" src="./assets/img/pablo-30.gif" />
 
- 📝 I regularly write articles on [https://www.medium.com/donPabloNow](https://www.medium.com/donPabloNow)
+ 📝 I regularly write blogs on [https://webpages.charlotte.edu/ialzouby/blog.html](https://webpages.charlotte.edu/ialzouby/blog.html)
  
 <img align="left" width="25px" src="./assets/img/pablo-40.gif" />
  
@@ -60,7 +60,7 @@
 
  📫 How to reach me **@donPabloNow**
 
- 📄 Know about my experiences [https://www.linkedin.com/in/donPabloNow](https://www.linkedin.com/in/donPabloNow)
+ 📄 Know about my experiences [www.linkedin.com/in/alzouby](https://www.linkedin.com/in/ialzouby)
 
  ⚡ Fun fact **I am a funny guy and love making music**
 
@@ -86,9 +86,7 @@
  
 <!-- BLOG-POST-LIST:START -->
 - [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
-- [Nvidia Geforce Rtx 3070 Ti Review](https://donpablonow.medium.com/nvidia-geforce-rtx-3070-ti-review-13608057a8ea?source=rss-73f028f71fcb------2)
-- [Optimize your VM performance in VMware Workstation.](https://medium.com/donpublic/optimize-your-vm-performance-in-vmware-workstation-1470704ba228?source=rss-73f028f71fcb------2)
-- [The best new feature in macOS Big Sur 11.3 i](https://medium.com/donpublic/the-best-new-feature-in-macos-big-sur-11-3-i-ae2f9513db4?source=rss-73f028f71fcb------2)
+
 <!-- BLOG-POST-LIST:END --> 
  
  </span>
