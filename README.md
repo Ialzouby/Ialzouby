@@ -133,15 +133,7 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
  <br/><br/><br/>
  <table  align="center" width="100%">
-    <tr>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/1t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/8t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/3t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/5t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/6t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/7t.gif" /></td>
-        <td><img align="center" width="100%" src="https://cdn.obeyi.com/os/img/media/10t.gif" /></td>
-    </tr>
+ 
 </table>
   <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
