@@ -85,7 +85,9 @@
  <img  align="right" width="150px" src="./assets/img/pablo-37.gif" />
  
 <!-- BLOG-POST-LIST:START -->
-- [Gentoo in 60 seconds — GO!](https://systemweakness.com/gentoo-in-60-seconds-go-9fde4af4ce5e?source=rss-73f028f71fcb------2)
+- [Harnessing AI for Academic Success](https://webpages.charlotte.edu/ialzouby/23-12-2023.html)
+- [Eco-Innovation: The Future of Green Tech](https://webpages.charlotte.edu/ialzouby/30-12-2023.html)
+- [Fusing Creativity with Technology](https://webpages.charlotte.edu/ialzouby/05-01-2024.html)
 
 <!-- BLOG-POST-LIST:END --> 
  
