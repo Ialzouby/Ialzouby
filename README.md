@@ -135,7 +135,6 @@
   <br/>
 <img align="left" width="50px" src="./assets/img/pablo-34.gif" />
  <br/>
-<h3 align="left">Support:</h3>
  <br/>
  
 
