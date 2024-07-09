@@ -139,8 +139,6 @@
  <br/>
  
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donpablonow" alt="donpablonow" /></a>
-
 <span align="center">
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -149,10 +147,6 @@
  
 <hr />
  
-[References (99+]
- 
- <hr />
- 
  🅲🅴🆁🆃🅸🅵🅸🅴🅳 
 
 “Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
@@ -160,6 +154,4 @@
 
 
 © All Rights Reserved
-൫
 
-------
