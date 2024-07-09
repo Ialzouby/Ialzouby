@@ -29,19 +29,23 @@
 </span><span align="center">
 <br />
 <img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
- 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
+ 
 <br />
  <br />
- 🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
  
  <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
+
+ 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
+
+
+ 🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
 <img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
- 🔭 I’m currently working on [Ai4Health](https://ai4health-production.up.railway.app/)
+ 🔭 My latest developed website: [Ai4Health](https://ai4health-production.up.railway.app/)
 
  👨‍💻 All of my projects are available at [[https://github.com/ialzouby](https://github.com/ialzouby)
  
