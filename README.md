@@ -29,15 +29,13 @@
 </span><span align="center">
 <br />
 <img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
- 🔭 I’m currently working on The application of a CoreML U-Net Ai, Wav2Lip. 
+ 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
 <br />
  <br />
- 🌱 I’m currently learning PyTorch, C++, iOS App Development 
+ 🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
  
  <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
 <br/><br/>
-
- 👯 I’m looking to collaborate on Various Projects, give me a holla! 
  
  💬 Talk to me about Anything, very interested in a wide range of topics :) 
  
@@ -57,11 +55,9 @@
 
  💬 Ask me about **anything**
 
- 📫 How to reach me **@donPabloNow**
-
  📄 Know about my experiences [www.linkedin.com/in/alzouby](https://www.linkedin.com/in/ialzouby)
 
- ⚡ Fun fact **I am a funny guy and love making music**
+ ⚡ Fun fact **I am a funny guy and love flying drones**
 
 <br/>
 <p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
@@ -71,9 +67,9 @@
  
 </span><span align="center">
  
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
+<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
- 
+ -->
  <br/>
  <h2> Blog posts </h2>
  <br/>
