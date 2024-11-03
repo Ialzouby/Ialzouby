@@ -23,18 +23,6 @@
 <br />
 <h1>Hello World, my name is Issam <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
 
-<span align="center">
-
- <br />
-</span><span align="center">
-<br />
-<img width="100px" align="right" alt="Github" src="./assets/img/pablo-17.gif" />
- 
-<br />
- <br />
- 
- <img align="right" width="120px" src="./assets/img/pablo-14.gif" />
-<br/><br/>
 
  🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
 
