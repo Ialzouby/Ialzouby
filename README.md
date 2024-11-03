@@ -51,19 +51,7 @@
 
  ⚡ Fun fact **I am a funny guy and love flying drones**
 
-<br/>
-<p>"No matter how brilliant your mind or strategy, if you're playing a solo game, you'll always lose out to a team" ~ Reid Hoffman</p>
-<br/>
- 
-<img align="left" width="25px" src="./assets/img/pablo-29.gif" />
- 
-</span><span align="center">
- 
-<!--<img width="45%" src="https://github-readme-stats.vercel.app/api?username=donpablonow&show_icons=true&locale=en" alt="donpablonow" />
-<img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=donpablonow&" alt="donpablonow" />
- -->
- <br/>
-<br />
+
 
 <br/>
  <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
