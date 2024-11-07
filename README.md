@@ -89,9 +89,11 @@
     </div>
 
     <!-- Jokes Box -->
-<div>
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
+<span align="center">
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</span>
 </div>
 
 <hr />
