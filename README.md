@@ -21,11 +21,7 @@
 
 <img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
-<h1>Hello World, my name is Issam <img width="130px" src="./assets/img/pablo-2.gif" /></h1>
-
-
  🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
-
 
  🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
  
