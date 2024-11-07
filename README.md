@@ -41,8 +41,6 @@
 
 <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
 
-💬 Ask me about **anything**
-
 📄 Know about my experiences [www.linkedin.com/in/alzouby](https://www.linkedin.com/in/ialzouby)
 
 ⚡ Fun fact **I am a funny guy and love flying drones**
