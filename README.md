@@ -43,7 +43,7 @@
     <br />
 
 <!-- Skills Section and Jokes Box in the Same Row -->
-<div style="text-align: center; display: inline-block;">
+ <div style="text-align: center; display: inline-block; margin-top: -15px;">
         <!-- Skills Section -->
         <div style="display: inline-block; vertical-align: top; text-align: left; margin-right: 20px;">
             <h2>Skills 
