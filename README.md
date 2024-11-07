@@ -35,7 +35,7 @@
         <img align="left" width="25px" src="./assets/img/pablo-40.gif" />
         <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
         <p>📄 Know about my experiences <a href="https://www.linkedin.com/in/ialzouby">LinkedIn</a></p>
-        <p>⚡ Fun fact: <strong>I am a funny guy and love flying drones</strong></p>
+        <p>⚡ Fun fact: <strong>I love building and flying drones!</strong></p>
     </div>
 
 <br />
