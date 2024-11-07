@@ -78,11 +78,6 @@
             <!-- Add more icons as needed -->
         </div>
 
-    <!-- Jokes Box -->
-<div style="display: inline-block; text-align: left;">
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-    </div>
-</div>
 
 <hr />
 
