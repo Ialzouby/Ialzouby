@@ -87,15 +87,6 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
         <!-- Add more icons as needed -->
     </div>
-
-    <!-- Jokes Box -->
-<span align="center">
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</span>
-</div>
-
 <hr />
 
 🅲🅴🆁🆃🅸🅵🅸🅴🅳
