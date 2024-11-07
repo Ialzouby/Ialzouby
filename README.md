@@ -80,8 +80,5 @@
 
 
 <hr />
-
-<p>🅲🅴🆁🆃🅸🅵🅸🅴🅳</p>
-    <blockquote>“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob</blockquote>
-    <p>© All Rights Reserved</p>
+    <p>©Issam Alzouby</p>
 </div>
