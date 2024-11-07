@@ -7,53 +7,59 @@
 </span>
 <span align="center">
 
-
 <img width="150px" src="./assets/img/pablo-26.gif" />
 <img align="left" width="40px" src="./assets/img/pablo-33.gif" />
 <img align="right" width="80px" src="./assets/img/pablo-42.gif" />
- 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ialzouby&theme=algolia)
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ialzouby&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ialzouby&theme=algolia&utcOffset=8)
- <br /><br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ialzouby&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ialzouby&theme=algolia&utcOffset=8)
+
+<br /><br/>
 <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
 <img align="left" width="100px" src="./assets/img/pablo-4.gif" />
 
 <img align="right" width="150px" src="./assets/img/pablo-16.gif" />
 <br />
- 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
+🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip. 
 
- 🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
- 
- 💬 Talk to me about Anything, very interested in a wide range of topics :) 
- 
+🌱 I’m currently learning iOS App Development, Azure and Cloud Security 
+
+💬 Talk to me about Anything, very interested in a wide range of topics :) 
+
 <img align="left" width="140px" src="./assets/img/pablo-18.gif" />
 
- 🔭 My latest developed website: [Ai4Health](https://ai4health-production.up.railway.app/)
+🔭 My latest developed website: [Ai4Health](https://ai4health-production.up.railway.app/)
 
- 👨‍💻 All of my projects are available at [[https://github.com/ialzouby](https://github.com/ialzouby)
- 
+👨‍💻 All of my projects are available at [[https://github.com/ialzouby](https://github.com/ialzouby)
+
 <img align="left" width="40px" src="./assets/img/pablo-30.gif" />
 
- 📝 I regularly write blogs on [https://webpages.charlotte.edu/ialzouby/blog.html](https://webpages.charlotte.edu/ialzouby/blog.html)
- 
+📝 I regularly write blogs on [https://webpages.charlotte.edu/ialzouby/blog.html](https://webpages.charlotte.edu/ialzouby/blog.html)
+
 <img align="left" width="25px" src="./assets/img/pablo-40.gif" />
- 
- <img align="right" width="130px" src="./assets/img/pablo-21.gif" />
 
- 💬 Ask me about **anything**
+<img align="right" width="130px" src="./assets/img/pablo-21.gif" />
 
- 📄 Know about my experiences [www.linkedin.com/in/alzouby](https://www.linkedin.com/in/ialzouby)
+💬 Ask me about **anything**
 
- ⚡ Fun fact **I am a funny guy and love flying drones**
+📄 Know about my experiences [www.linkedin.com/in/alzouby](https://www.linkedin.com/in/ialzouby)
 
+⚡ Fun fact **I am a funny guy and love flying drones**
 
+<br />
+<img align="center" width="100%" src="./assets/img/pablo-44.gif" />
+<br />
 
-<br/>
- <img align="center" width="100%" src="./assets/img/pablo-44.gif" />
- <br/>
-<h2 align="left"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- <br/><br/>
+<!-- Skills and Jokes Box in the Same Row -->
+<div align="center">
+    <!-- Skills Section -->
+    <div>
+        <h2 align="left"> Skills 
+            <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+        </h2>
+        <br/>
+        <!-- Skills Icons -->
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -79,29 +85,19 @@
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=xd&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
 <a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
- <br/><br/><br/>
- <table  align="center" width="100%">
- 
-</table>
-  <br/>
-<img align="left" width="50px" src="./assets/img/pablo-34.gif" />
- <br/>
- <br/>
- 
+        <!-- Add more icons as needed -->
+    </div>
 
-<span align="center">
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+    <!-- Jokes Box -->
+    <div>
+        ![Jokes Card](https://readme-jokes.vercel.app/api)
+    </div>
+</div>
 
-</span>
- 
 <hr />
- 
- 🅲🅴🆁🆃🅸🅵🅸🅴🅳 
+
+🅲🅴🆁🆃🅸🅵🅸🅴🅳
 
 “Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
 
-
-
 © All Rights Reserved
-
