@@ -11,7 +11,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=ialzouby&theme=default&show_icons=true&hide_border=true&count_private=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="![ialzouby's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ialzouby&theme=default&hide_border=true)">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
