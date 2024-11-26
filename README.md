@@ -8,7 +8,7 @@
         <h3>A passionate CyberSecurity Student and Tech Enthusiast</h3>
 </span>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=ialzouby&theme=default&show_icons=true&hide_border=true&count_private=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
