@@ -21,7 +21,6 @@
 </span>
 
 <!-- Profile Summary Cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ialzouby&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ialzouby&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ialzouby&theme=algolia&utcOffset=8)
 
