@@ -20,9 +20,7 @@
   
 </span>
 
-<!-- Profile Summary Cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ialzouby&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ialzouby&theme=algolia&utcOffset=8)
+
 
 <!-- Bio and Info Section -->
 <div style="margin-top: -20px;"> <!-- Adjust margin to reduce spacing -->
