@@ -1,62 +1,56 @@
 <!-- Wrapper to Center All Content -->
-<div style="text-align: center;">
+<p align="center">
+  <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
+  <h1 align="center">Hi 👋, I'm Issam Alzouby</h1>
+  <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
+</p>
 
-    <!-- Header Section -->
-    <div style="display: flex; align-items: center; justify-content: center;">
-        <img width="40px" src="./assets/img/pablo-34.gif" />
-        <h1 style="margin: 0 10px;">Hi 👋, I'm Issam Alzouby</h1>
-        <img width="25px" src="./assets/img/pablo-28.gif" />
-    </div>
-    
-    <h3>AI/ML Student and Tech Enthusiast</h3>
+<h3 align="center">AI/ML Student and Tech Enthusiast</h3>
 
-    <!-- GitHub Stats -->
-    <a>
-        <img height=200 src="https://github-readme-stats.vercel.app/api?username=ialzouby" />
-    </a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=ialzouby">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=ialzouby" />
+  </a>
+</p>
 
-    <br />
+<p align="center">
+  <img width="150px" src="./assets/img/pablo-26.gif" />
+</p>
 
-    <!-- Centered GIF -->
-    <div style="display: flex; justify-content: center;">
-        <img width="150px" src="./assets/img/pablo-26.gif" />
-    </div>
+## 📌 Bio and Info
 
-    <!-- Bio and Info Section -->
-    <div style="margin-top: -20px; max-width: 700px; margin: auto;">
-        <div style="display: flex; justify-content: center; gap: 10px;">
-            <img width="40px" src="./assets/img/pablo-34.gif" />
-            <img width="100px" src="./assets/img/pablo-4.gif" />
-            <img width="150px" src="./assets/img/pablo-16.gif" />
-        </div>
-        
-        <p>🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip.</p>
-        <p>🌱 I’m currently learning iOS App Development, Azure and Cloud Security</p>
-        <p>💬 Talk to me about Anything, very interested in a wide range of topics :)</p>
+<p align="center">
+  <img width="40px" src="./assets/img/pablo-34.gif" />
+  <img width="100px" src="./assets/img/pablo-4.gif" />
+  <img width="150px" src="./assets/img/pablo-16.gif" />
+</p>
 
-        <div style="display: flex; justify-content: center;">
-            <img width="140px" src="./assets/img/pablo-18.gif" />
-        </div>
-        
-        <p>🔭 My latest developed website: <a href="https://ai4health-production.up.railway.app/">Ai4Health</a></p>
-        <p>👨‍💻 All of my projects are available at <a href="https://github.com/ialzouby">GitHub</a></p>
+- 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip.
+- 🌱 I’m currently learning iOS App Development, Azure and Cloud Security
+- 💬 Talk to me about Anything, very interested in a wide range of topics :)
 
-        <div style="display: flex; justify-content: center;">
-            <img width="40px" src="./assets/img/pablo-30.gif" />
-        </div>
-        
-        <p>📝 I regularly write blogs on <a href="https://webpages.charlotte.edu/ialzouby/blog.html">My Blog</a></p>
+<p align="center">
+  <img width="140px" src="./assets/img/pablo-18.gif" />
+</p>
 
-        <div style="display: flex; justify-content: center;">
-            <img width="25px" src="./assets/img/pablo-40.gif" />
-        </div>
+- 🔭 My latest developed website: [Ai4Health](https://ai4health-production.up.railway.app/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ialzouby)
 
-        <p>📄 Know about my experiences <a href="https://www.linkedin.com/in/ialzouby">LinkedIn</a></p>
-        <p>⚡ Fun fact: <strong>I love building and flying drones!</strong></p>
-    </div>
+<p align="center">
+  <img width="40px" src="./assets/img/pablo-30.gif" />
+</p>
 
-    <br />
-    <img width="100%" src="./assets/img/pablo-44.gif" />
-    <br />
+- 📝 I regularly write blogs on [My Blog](https://webpages.charlotte.edu/ialzouby/blog.html)
 
-</div>
+<p align="center">
+  <img width="25px" src="./assets/img/pablo-40.gif" />
+</p>
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ialzouby)
+- ⚡ Fun fact: **I love building and flying drones!**
+
+---
+
+<p align="center">
+  <img width="100%" src="./assets/img/pablo-44.gif" />
+</p>
