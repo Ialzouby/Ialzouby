@@ -33,14 +33,14 @@
   <img width="140px" src="./assets/img/pablo-18.gif" />
 </p>
 
-- 🔭 My latest developed website: [Ai4Health](https://ai4health-production.up.railway.app/)
+- 🔭 My latest developed website: [Ai4Health](https://ai4health.charlotte.edu/)
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ialzouby)
 
 <p align="center">
   <img width="40px" src="./assets/img/pablo-30.gif" />
 </p>
 
-- 📝 I regularly write blogs on [My Blog](https://webpages.charlotte.edu/ialzouby/blog.html)
+- 📝 I regularly write blogs on [My Blog](https://issamalzouby.com)
 
 <p align="center">
   <img width="25px" src="./assets/img/pablo-40.gif" />
