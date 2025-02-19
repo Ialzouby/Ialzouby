@@ -5,7 +5,7 @@
         <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
         <h1>Hi 👋, I'm Issam Alzouby</h1>
         <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
-        <h3>A passionate CyberSecurity Student and Tech Enthusiast</h3>
+        <h3>AI/ML Student and Tech Enthusiast</h3>
 </span>
 
 <a>
