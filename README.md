@@ -46,7 +46,7 @@
   <img width="25px" src="./assets/img/pablo-40.gif" />
 </p>
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ialzouby)
+- 📄 Lets Connect on LinkedIn! [LinkedIn](https://www.linkedin.com/in/ialzouby)
 - ⚡ Fun fact: **I love building and flying drones!**
 
 ---
