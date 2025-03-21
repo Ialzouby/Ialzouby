@@ -21,37 +21,9 @@
   <img width="150px" src="./assets/img/pablo-26.gif" />
 </p>
 
-## 📌 Bio and Info
 
-<p align="center">
-  <img width="40px" src="./assets/img/pablo-34.gif" />
-  <img width="100px" src="./assets/img/pablo-4.gif" />
-  <img width="150px" src="./assets/img/pablo-16.gif" />
-</p>
 
-- 🔭 I’m currently working on The application of a CoreML U-Net Ai Model, Wav2Lip.
-- 🌱 I’m currently learning iOS App Development, Azure and Cloud Security
-- 💬 Talk to me about Anything, very interested in a wide range of topics :)
 
-<p align="center">
-  <img width="140px" src="./assets/img/pablo-18.gif" />
-</p>
-
-- 🔭 My latest developed website: [Ai4Health](https://ai4health.charlotte.edu/)
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ialzouby)
-
-<p align="center">
-  <img width="40px" src="./assets/img/pablo-30.gif" />
-</p>
-
-- 📝 I regularly write blogs on [My Blog](https://issamalzouby.com)
-
-<p align="center">
-  <img width="25px" src="./assets/img/pablo-40.gif" />
-</p>
-
-- 📄 Lets Connect on LinkedIn! [LinkedIn](https://www.linkedin.com/in/alzouby)
-- ⚡ Fun fact: **I love building and flying drones!**
 
 ---
 
