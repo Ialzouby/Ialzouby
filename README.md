@@ -1,11 +1,10 @@
 <!-- Wrapper to Center All Content -->
 <p align="center">
   <img align="left" width="40px" src="./assets/img/pablo-34.gif" />
-  <h1 align="center">Hi 👋, I'm Issam Alzouby</h1>
+  <h1 align="center">Hi 👋, I'm Issam Alzouby AI/ML Student and Tech Enthusiast</h1>
   <img align="right" width="25px" src="./assets/img/pablo-28.gif" />
 </p>
 
-<h3 align="center">AI/ML Student and Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=ialzouby">
